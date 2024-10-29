@@ -1,0 +1,28 @@
+{
+	"nodes":[
+		{"type":"group","id":"4f3a64e3f124341c","x":-239,"y":-241,"width":403,"height":335,"color":"4","label":"Engeneering group"},
+		{"type":"text","text":"## AI engeneering\nИнженерия ИИ (не MLOps, не матан )","id":"b4a3b885fea8ded8","x":-176,"y":-221,"width":290,"height":113,"color":"4"},
+		{"type":"text","text":"## Программерский \n### Programming, Software Engeneering, MLOps\n","id":"0b9fd3a17b8632f5","x":-208,"y":-78,"width":349,"height":148,"color":"3"},
+		{"type":"text","text":"# МАТАН\n## Алгоритмы","id":"dd1458799d48ea8d","x":-176,"y":-466,"width":291,"height":130,"color":"#608bc3"},
+		{"type":"text","text":"Промпты (базис), Использование сервисов, навыки \"нарисовать картинку ИИ\"","id":"ab661a174c19ebc6","x":174,"y":126,"width":305,"height":132},
+		{"type":"file","file":"AI/base/AI-engeenering-structure.canvas","id":"f0ff610cbcb8d835","x":237,"y":-154,"width":161,"height":89},
+		{"type":"text","text":"## Юзерский\n### User level","id":"b5feb51e84c211d7","x":-180,"y":133,"width":298,"height":118,"color":"6"},
+		{"type":"text","text":"","id":"901ab142a665dd88","x":-481,"y":195,"width":61,"height":50},
+		{"type":"text","text":"### ML engineer ","id":"5c6c31cdd6183761","x":-530,"y":-56,"width":250,"height":110,"color":"5"},
+		{"type":"text","text":"# \"Уровни\" и группы  ИИ навыков\n##  AI skill levels","id":"458ee6062ee70bc3","x":-496,"y":-479,"width":245,"height":187},
+		{"type":"text","text":"ML-Ops (devOps)\nИнсталляция софта, написания, чтение исходников","id":"318bf6e56d6e0ba0","x":287,"y":-31,"width":238,"height":120,"color":"3"},
+		{"type":"text","text":"Модели, Обучение, Сорцы, Компиляция","id":"34bf4ff3101629f6","x":291,"y":-283,"width":241,"height":90,"color":"4"}
+	],
+	"edges":[
+		{"id":"1315cd2b25115573","fromNode":"0b9fd3a17b8632f5","fromSide":"right","toNode":"318bf6e56d6e0ba0","toSide":"left"},
+		{"id":"a64843c9783db01d","fromNode":"0b9fd3a17b8632f5","fromSide":"right","toNode":"f0ff610cbcb8d835","toSide":"left"},
+		{"id":"3764b365aca3f438","fromNode":"b4a3b885fea8ded8","fromSide":"right","toNode":"f0ff610cbcb8d835","toSide":"left"},
+		{"id":"e276594b6b285e53","fromNode":"b4a3b885fea8ded8","fromSide":"right","toNode":"34bf4ff3101629f6","toSide":"left"},
+		{"id":"e145e511b538a62d","fromNode":"b5feb51e84c211d7","fromSide":"right","toNode":"ab661a174c19ebc6","toSide":"left"},
+		{"id":"e490311463c6c1c9","fromNode":"b5feb51e84c211d7","fromSide":"top","toNode":"0b9fd3a17b8632f5","toSide":"bottom"},
+		{"id":"6c2d770e1129d653","fromNode":"0b9fd3a17b8632f5","fromSide":"top","toNode":"b4a3b885fea8ded8","toSide":"bottom"},
+		{"id":"f9ccf316f99312ad","fromNode":"b4a3b885fea8ded8","fromSide":"top","toNode":"dd1458799d48ea8d","toSide":"bottom"},
+		{"id":"b7cfdee382d29369","fromNode":"dd1458799d48ea8d","fromSide":"right","toNode":"34bf4ff3101629f6","toSide":"left"},
+		{"id":"33c94f4cb12cbf7e","fromNode":"5c6c31cdd6183761","fromSide":"right","toNode":"0b9fd3a17b8632f5","toSide":"left"}
+	]
+}
