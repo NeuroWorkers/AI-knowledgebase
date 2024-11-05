@@ -3,7 +3,7 @@ Aliases: [ "PPO - Proximal Policy Optimization" ]
 ---
 
 
-<font color="#ffff00">ОРИГИНАЛЬНО</font> ОТ <span style="background:#b1ffff">open.ai</span> >>> [[
+<font color="#ffff00">ОРИГИНАЛЬНО</font> ОТ <span style="background:#b1ffff">open.ai</span> >>> 
 
 # Proximal Policy Optimization
 
@@ -29,6 +29,3 @@ Aliases: [ "PPO - Proximal Policy Optimization" ]
 proximal policy optimization (ppo)
 https://scholar.google.ru/scholar?q=proximal+policy+optimization+(ppo)&hl=en&as_sdt=0&as_vis=1&oi=scholart
 
-
-
-[[biz-truthmann-flow|biz flow truethmann]]

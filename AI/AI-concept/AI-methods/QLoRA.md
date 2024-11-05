@@ -1,6 +1,3 @@
-
-
-
 технология и модель
 
 #### Guanaco (+)
@@ -8,6 +5,7 @@
 <span style="background:#affad1">OPENSOURCE</span>
 #### QloRA (tech) (+)
 finetuning that reduces memory usage
+
 --------------------
 
 #### /end
@@ -32,21 +30,8 @@ We present QLoRA, an efficient finetuning approach that <font color="#ffff00">re
 
 ----
 
-
-# Guanaco
-NOTE: Guanaco это <font color="#00b0f0">model</font> ( -->  [[AI-basics#Model]] )
-NOTE: Guanaco это <font color="#00b0f0">chat-bot</font> model
-NOTE: Guanaco based on <font color="#00b0f0">LLaMA</font> ( --> [[LLaMA]]   ) (see -->  [[QLoRA#^d6ddbd]] )
-
-
-Guanaco модель для QLoRA
-
-https://github.com/artidoro/qlora
-... Our best model family, which we name <font color="#00b0f0">Guanaco</font>, outperforms all previous openly released models on the Vicuna benchmark ... 
-
-##### License and Intended Use
-We release the resources associated with QLoRA finetuning in this repository under MIT license. In addition, we release the <font color="#00b0f0">Guanaco model family for base LLaMA</font> model sizes of 7B, 13B, 33B, and 65B. These models are intended for purposes in line with the LLaMA license and require access to the LLaMA models.  ^d6ddbd
-
+#### See [[Guanaco]] (модель)
+![[Guanaco#^t1]]
 
 
 

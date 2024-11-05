@@ -14,6 +14,7 @@ uplink>> [[AI-models2.canvas]]
 ## mosaic MPT
 ---
 https://www.mosaicml.com/blog/mpt-7b
+
 ---
 ![[2023-06-07_23-21.webp]]
 

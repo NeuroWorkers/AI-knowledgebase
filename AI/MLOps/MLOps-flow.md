@@ -21,11 +21,11 @@ I also tried searching again with different keywords and found this repository 
 
 
 #### Model RAM usage
-claude: 8b -> 16-32G RAM
+from claude: 8b -> 16-32G RAM
 For a model with 8 billion parameters: Approximate RAM required: 16-32 GB ; 
 This estimate assumes: 2-4 bytes per parameter (depending on precision) ; Some overhead for model operation. Actual usage may vary based on specific model architecture, framework, and optimizations used.
 
-claude: 8B --> 4-8 GB RAM
+from claude: 8B --> 4-8 GB RAM
 With quantization and memory optimization techniques applied to an 8B parameter model: Approximate RAM required: 4-8 GB
 This estimate assumes:
 4-bit or 8-bit quantization (0.5-1 byte per parameter)

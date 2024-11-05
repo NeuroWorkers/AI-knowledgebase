@@ -3,7 +3,7 @@ aliases: [ "GPT4All (UI)" ]
 up: [[MLOps]]
 ---
 up: [[MLOps]]  
-org: [[Nomic_AI]]  ; Model(s):  [[GPT4All--models]]
+org: [[Nomic-AI]]  ; Model(s):  [[GPT4All--models]]
 
 # GPT4All
 чатбот, GPT4All-ui

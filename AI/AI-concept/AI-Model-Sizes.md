@@ -1,12 +1,29 @@
 
 
-
 ## Model sizes
+Размер модели
+Варианты понимания термина Model size - 13B, 7B итп - количество параметров(весов, отсчетов) модели.
+Альтернативное понимание, особенно в русском языке.
+Размер который модель занимает на диске.
+Размер который модель занимает в  памяти.
 
-Два варианта Mode size как в GPT3 size  количество 
+Примеры
+llama 7B  ; See  [[#Example model sizes]]
 
-fp16
+#### Model sizes RAM/disk
 
+Большая часть моделей: FP16 or BF16
+
+FP16 or BF16
+Vanilla LLMs are in 16-bit floating values (i.e., FP16 or BF16), and the bulk of any LLMs is matrix multiplication. Therefore, the major computation cost comes from the floating-point addition and multiplication operations.
+
+
+-----
+fp16, bf16
+
+
+https://en.wikipedia.org/wiki/Bfloat16_floating-point_format
+The bfloat16 (brain floating point)[1][2] floating-point format is a computer number format occupying 16 bits in computer memory; .. using a floating radix point. This format is a shortened (16-bit) version of the 32-bit IEEE 754 single-precision floating-point format (binary32)
 
 
 
@@ -20,11 +37,11 @@ https://aibusiness.com/nlp/7-language-models-you-need-to-know
 
 ### GPT-3 size
 Developers: OpenAI
-Parameters: 175 billion
+Parameters: 175 billion ~  2024-01
 i.e <font color="#00b0f0">175</font>B
 
 ### LaMDA size
-Developer: Google   ;   Parameters: 137 billion
+Developer: Google   ;   Parameters: 137 billion ~  2024-01
 
 Google’s LaMDA (Language Model for Dialogue Applications) model is so accurate that it purportedly convinced an AI engineer it was sentient.
 When it is not scaring engineers, the model can generate conversational dialogue in a free-form way – compared to task-based responses traditional models often come up with.

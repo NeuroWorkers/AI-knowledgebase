@@ -4,7 +4,7 @@ aliases:
 up:
   - 
 ---
-up:  [[AI]]
+up:  [[AI-centers]]
 see: [[Mixtral]]
 # Mistral AI
 Компания
