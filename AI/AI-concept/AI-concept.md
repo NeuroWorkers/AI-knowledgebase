@@ -1,8 +1,9 @@
 ---
 aliases:
   - Terminology (AI:ML,LLM)
+up: [[AI]]
 ---
-
+up: [[AI]]
 иерархия
 ML -> Deep Lerning -> Neural Networks -> LLM, Text2Img  (AI) ; See: [[AI-basics]]
 
@@ -14,9 +15,9 @@ What is NLP (natural language processing)?
 https://www.ibm.com/topics/natural-language-processing
 
 #### LLM
-Large language model  https://en.wikipedia.org/wiki/Large_language_model
+See [[LLM]] ; 
 ##### Multimodal LLM
-multimodal LLM is an AI system trained with multiple modes of data. For instance, existing multimodal LLM are trained on image, text, and audio data.
+multimodal LLM is an AI system trained with multiple modes of data. For instance, existing multimodal LLM are trained on image, text, and audio data. --> [[Log-2024#Multimodal LLMs]]
 
 ### Inference (Model Inference)
 основное юзерское использование модели - запрашиваем ей запрос и получаем результат. --> [[AI-flow#Inference (Model Inference)|Inference (Model Inference)]]
@@ -38,12 +39,16 @@ https://en.wikipedia.org/wiki/Prompt_engineering#In-context_learning
 
 
 ### RLHF - Reinforcement Learning from Human Feedback
+Reinforcement Learning from Human Feedback, RLHF
 [[howto-StackLLaMA---LLaMA-RLHF]]
+
+«обучение с подкреплением на основе отзывов людей» (Reinforcement Learning from Human Feedback, RLHF)
+
 
 ### Structured Output
 It is often crucial to have LLMs return structured output. 
 How: Prompting ; Function calling ; Tool calling; JSON mode
-[[AI-flow#Structured Output]]
+[[AI-flow#Structured Output]] [[Structured-output|Structured output]]
 
 
 ### Quantization
@@ -59,6 +64,8 @@ See: [[AI-flow#Model output size (flow)]]
 LLM Агенты ; статья: LLM field landscape  https://habr.com/ru/articles/814665/
 [LLM Агенты](https://habr.com/ru/articles/814665/#:~:text=%D1%8F%20%D0%BF%D0%BE%D1%81%D1%82%D0%B0%D1%80%D0%B0%D1%8E%D1%81%D1%8C%20%D0%B7%D0%B0%D1%85%D0%B2%D0%B0%D1%82%D0%B8%D1%82%D1%8C.-,LLM%20%D0%90%D0%B3%D0%B5%D0%BD%D1%82%D1%8B,-%D0%9C%D0%BE%D1%91%20%D0%B2%D0%BE%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5%20%D0%BE%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5)
 
+### Automatic Speech Recognition
+See: [[ASR]]  ; See: [[Diarization]]
 
 ## AI-methods
 

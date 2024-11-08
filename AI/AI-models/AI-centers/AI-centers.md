@@ -3,14 +3,25 @@ aliases:
   - AI centers
   - Centers of AI tech - source of models and methods.
 up:
-  - 
+  - [[AI]]
 ---
-up:  
+up:  [[AI]]
 ### Centers of AI tech - source of models and methods.
+Центры разработки ИИ, NLP и тп - источники моделей и методов.
 
-[[claude-AI]]  |  [[Meta]]  |  [[Google]]  |  
+[[claude-AI]]  |  [[Meta]]  |  [[Google]]  | Mozilla ( [[#MosaicML]])  |  [[MS]]  | [[OpenAI]]
+[[#Stanford]]   |  [[Mistral-AI]]  |  [[Nomic-AI]] | [[Stability-AI]]  
 
-### MosaicML (Mozilla)
-Mozilla
+### MosaicML
+Mozilla (Firefox) Foundation
 [[mosaic-MPT]]
+
+### Stanford
+Stanford University  https://en.wikipedia.org/wiki/Stanford_University
+Models: Alpaca
+Descendants (Потомки):
+Vicuna StableVicuna
+
+
+
 

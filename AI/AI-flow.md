@@ -8,6 +8,7 @@ aliases:
 ###### сверточные нейросети
 сверточные нейросети
 https://en.wikipedia.org/wiki/Convolutional_neural_network
+https://ru.wikipedia.org/wiki/Свёрточная_нейронная_сеть 
 
 
 #### instruct (suffix for LLM file)
@@ -126,3 +127,27 @@ Fine-tuning helps transferring the general knowledge learned from the foundation
 Embedding a foundational model means integrating or incorporating the pre-trained model into another system or application, but without significantly altering its learned parameters. This means using the model's capabilities as they are. (ПОКА НЕПОНЯТНО)
 
 
+------
+#### how-to-train-a-custom-llm-embedding-model
+
+https://dagshub.com/blog/how-to-train-a-custom-llm-embedding-model/
+
+------
+#### Text embeddings
+
+https://modal.com/blog/embedding-wikipedia
+
+Text embeddings are a key component of production-ready applications using large language models (LLMs). A text embedding model transforms chunks of text into vectors of floating-point numbers that represent their semantic meaning, allowing us to quantitatively compare strings for similarity. Creating embeddings on a large corpus of text enables us to build applications like search and recommendation engines, as well as give additional context to LLMs for Retrieval-Augmented Generation (RAG) on custom documents.
+
+Embedding models behind APIs like OpenAI’s text-embedding-ada-002 are a great way to get started with building for these use cases. However, as you gather user data and tailor your applications using that data, you will likely get higher-quality results at lower cost if you used this data to fine-tune an open-source embedding model. This requires setting up large-scale embedding jobs, which can be a challenge due to rate limits, infrastructure complexity, and the infeasibility of getting a large number of GPUs for short bursts of time. So what can we do? Enter Modal.
+
+------
+#### efficient compute frontier
+
+https://www.youtube.com/shorts/35IpOK-WaNA
+ The efficient compute frontier
+
+
+
+
+## /end

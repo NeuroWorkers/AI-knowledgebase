@@ -1,10 +1,9 @@
 ---
 aliases:
-  - template1
 up:
-  - - xxx#INFRA
+  - [[AI-centers]]
 ---
-up:  
+up:  [[AI-centers]]
 # Google
 
 #### LaMDA (google)
