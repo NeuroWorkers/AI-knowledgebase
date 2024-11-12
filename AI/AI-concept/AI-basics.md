@@ -21,6 +21,10 @@ Machine learning [algorithms](https://en.wikipedia.org/wiki/Algorithm "Algorith
 аналог  <font color="#ffff00">DevOps</font> но для ML : https://en.wikipedia.org/wiki/MLOps
 
 -----
+### Neural Networks (ML)
+ANN -artificial neural network, NN - neural net. ANN consists of connected nodes called artificial neurons, which loosely model the neurons in the brain. These are connected by edges, which model the synapses
+https://en.wikipedia.org/wiki/Neural_network_(machine_learning)
+
 ### Generative AI
 "...Meta launches MusicGen, a Generative AI"
 ##### What is generative AI? Everything you need to know

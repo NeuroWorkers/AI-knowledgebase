@@ -8,7 +8,7 @@ up: [[AI]]
 ML -> Deep Lerning -> Neural Networks -> LLM, Text2Img  (AI) ; See: [[AI-basics]]
 
 # AI-concept
-## AI concepts - Fundametal 
+## AI concepts - Fundamental
 
 #### NLP - natural language processing 
 What is NLP (natural language processing)?
@@ -17,25 +17,24 @@ https://www.ibm.com/topics/natural-language-processing
 #### LLM
 See [[LLM]] ; 
 ##### Multimodal LLM
-multimodal LLM is an AI system trained with multiple modes of data. For instance, existing multimodal LLM are trained on image, text, and audio data. --> [[Log-2024#Multimodal LLMs]]
+multimodal LLM is an AI system trained with multiple modes of data. For instance, existing multimodal LLM are trained on image, text, and audio data. --> [[AI-Model#Multimodal LLMs]]
 
 ### Inference (Model Inference)
 основное юзерское использование модели - запрашиваем ей запрос и получаем результат. --> [[AI-flow#Inference (Model Inference)|Inference (Model Inference)]]
 See: [[#Chaining, Inference chaining, LLM chaining]]
 
 ### Context window
+Alisas: Контекстное окно, 
 See: [[Context-window]]
-контекстное окно
-[[AI-flow#Context window, Контекстное окно (flow)]]
-Context window size : 
-[[AI-flow#Context window size]]
+##### Context window size 
+[[Context-window#Context window size]]
 
 ### In-context learning
-See: [[#FSL - Few-shot learning]]
-
-https://en.wikipedia.org/wiki/Prompt_engineering#In-context_learning
-
-![[LLM-agent#^in-context-learning]]
+See: [[In-context-learning|ICL (In-context learning)]]
+![[In-context-learning#^in-context-learning]]
+### FSL - Few-shot learning
+N-shot learning is when an machine learning model can learn a new task by seeing N examples of that task.
+See [[FSL]]
 
 
 ### RLHF - Reinforcement Learning from Human Feedback
@@ -86,16 +85,6 @@ see: [[AI-Model-Sizes#^transfer-learning]]
 
 ### Chaining, Inference chaining, LLM chaining
 [[Chaining#Chaining, Inference chaining, LLM chaining]]
-
-### FSL - Few-shot learning
-Few-shot learning (FSL) - ... an AI model learns to make accurate predictions by training on a very small number of labeled examples. https://www.ibm.com/topics/few-shot-learning
-
-##### Few-shot learning in context window
-https://artificial-intuition.beehiiv.com/p/few-shot-learning-context-learning
-N-shot learning is when an machine learning model can learn a new task by seeing N examples of that task. So 1-shot means the model only needs a 1 labeled example to learn a new task, few-shot model needs more, say 5-20
-
-
-
 
 ### LLM with RL
 [[#RL - Reinforcement Learning, LLM with RL]]
