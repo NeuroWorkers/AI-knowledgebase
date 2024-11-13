@@ -1,3 +1,7 @@
+---
+aliases:
+  - "How to Train a Custom LLM Embedding Model (article)"
+---
 
 https://dagshub.com/blog/how-to-train-a-custom-llm-embedding-model/
 

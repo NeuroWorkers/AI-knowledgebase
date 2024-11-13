@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "What is Mamba?"
+  - "What is Mamba? (article)"
 ---
 up: [[AI-articles]]
 up: [[Mamba]]
