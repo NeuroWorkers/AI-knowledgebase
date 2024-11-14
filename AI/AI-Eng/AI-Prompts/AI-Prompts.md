@@ -6,7 +6,7 @@ up:
   - [[AI-Soft-dev]]
   - [[AI-concept]]
 ---
-up: [[AI-Soft-dev]] ; up:  [[AI-concept]]
+up: [[AI-Eng]] ; up:  [[AI-concept]]
 
 # Prompt engineering
 Очень важная часть программирования систем использующих LLM.
