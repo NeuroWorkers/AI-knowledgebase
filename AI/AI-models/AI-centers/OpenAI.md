@@ -2,14 +2,14 @@
 ---
 # OpenAI
 "та самая " Компания
-[[Chat-GPT]] | OpenAI | [[ChatGPT-misc]]
+[[ChatGPT-s]] | OpenAI | [[ChatGPT-misc]]
 
 Opensource: Point-E, Whisper, Jukebox, and CLIP.
 
 ##### Point-E
 
 #####  Whisper
-[[Wisper-AI]]
+[[WisperAI-m]]
 #####  Jukebox
 
 #####  CLIP (OpenAI)
@@ -17,3 +17,5 @@ Opensource: Point-E, Whisper, Jukebox, and CLIP.
 
 ## Attic
 ...
+
+[[ChatGPT-s]] | [[OpenAI]] | [[ChatGPT-misc]]

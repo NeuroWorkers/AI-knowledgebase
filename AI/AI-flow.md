@@ -118,7 +118,15 @@ Embedding models behind APIs like OpenAI’s text-embedding-ada-002 are a great 
 https://www.youtube.com/shorts/35IpOK-WaNA
  The efficient compute frontier
 
+------
+#### Prompt injection explained, with video, slides, and a transcript
 
+simonwillison.net (https://simonwillison.net/2023/May/2/prompt-injection-explained/?utm_source=substack&utm_medium=email)
+Prompt injection explained, with video, slides, and a transcript
+I participated in a webinar this morning about prompt injection, organized by LangChain and hosted by Harrison Ch....
+
+YouTube: https://www.youtube.com/watch?v=FgxwCaL6UTA
+![[2023-05-31_20-46.webp]]
 
 
 ## /end

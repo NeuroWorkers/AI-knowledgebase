@@ -1,5 +1,3 @@
-
-
 ##### 2024-11-08
 Massive re-org with content additions. Now knowledge base have more-less good
 structure. Browsing starting from AI/AI.md

@@ -9,19 +9,19 @@ up:  [[AI-centers]]
 #### LaMDA (google)
 [[LaMDA]]
 #### Google Gemini
-Google Bard (старое название)
-[[LaMDA#Google Bard]]
+See: [[Gemini-Google]] (старое название: Google Bard)
 https://gemini.google.com/
 
 
 ## Инструменты
 
 #### Dialogflow
+устаревший (кажется что)
 создание ботов.
 
 
 # Attic
-###### [[Google]] -> [[Gemini-Google|Gemini]] | [[LaMDA|LaMDA (model)]]  | [[Google_Colab|google Collab]]  | old [[Bard-PaLM|Bard]]
+###### [[Google]] -> [[Gemini-Google|Gemini]] | [[LaMDA|LaMDA (model)]]  | [[Google_Colab2|google Collab]]  | old [[Bard-PaLM.2|Bard]]
 ^m
 
 

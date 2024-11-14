@@ -1,10 +1,10 @@
 ---
 up:
   - [[Flows]]
-  - [[MLOps]] 
+  - [[AI-MLOps]] 
 ---
 
-up: [[MLOps]]
+up: [[AI-MLOps]]
 
 -------------------------------
 #### Model server (LLM Model server)
@@ -36,7 +36,7 @@ Some overhead for operation
 #### The easiest AI local installation...
 from: https://askubuntu.com/questions/1461564/install-llama-cpp-locally
 
-see [[MLOps#Oogabooga (Text generation web UI)]]
+see [[AI-MLOps#Oogabooga (Text generation web UI)]]
 
 more: 
 OobaBooga -  failed for my laptop ....

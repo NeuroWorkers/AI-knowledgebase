@@ -19,6 +19,3 @@ wikipedia:
 ## Google Gemini
 ==> [[Gemini-Google|Gemini (Google)]]
 
-## Google Bard
-==> [[Bard-PaLM#Bard (Google Bard)]]
-

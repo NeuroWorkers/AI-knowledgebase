@@ -21,3 +21,5 @@ https://github.com/artidoro/qlora
 ##### License and Intended Use
 We release the resources associated with QLoRA finetuning in this repository under MIT license. In addition, we release the <font color="#00b0f0">Guanaco model family for base LLaMA</font> model sizes of 7B, 13B, 33B, and 65B. These models are intended for purposes in line with the LLaMA license and require access to the LLaMA models.  ^d6ddbd
 
+##### gradio + collab + Guanaco 
+> Or host your own Guanaco gradio demo directly in Colab with this notebook. Works with free GPUs for 7B and 13B models. (see https://github.com/artidoro/qlora#demo)

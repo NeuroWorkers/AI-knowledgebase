@@ -95,7 +95,7 @@ https://github.com/floodsung/LLM-with-RL-papers
 ## MLOps concepts
 terminology
 #### Model server (LLM Model server)
-[[MLOps-flow#Model server (LLM Model server)]]
+[[AI-MLOps-flow#Model server (LLM Model server)]]
 
 
 ## /end
