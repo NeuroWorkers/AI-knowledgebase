@@ -1,5 +1,28 @@
+---
+aliases:
+  - Ollama (as framework)
+up:
+  - [[MLOps#Ollama]]
+---
 
 up: [[MLOps#Ollama]]
+
+up:  
+
+# Ollama
+### Ollama (as framework)
+
+
+
+
+### Ollama (as service)
+
+
+#### Ollama with the OpenAI Chat now has built-in compatibility 
+https://ollama.com/blog/openai-compatibility
+Ollama now has built-in compatibility with the OpenAI Chat c, making it possible to use more tooling and applications with Ollama locally.
+
+
 
 
 https://www.reddit.com/r/LocalLLaMA/comments/1dhyxq8/why_use_ollama/

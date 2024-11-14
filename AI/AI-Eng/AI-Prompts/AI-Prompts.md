@@ -10,9 +10,14 @@ up: [[AI-Eng]] ; up:  [[AI-concept]]
 
 # Prompt engineering
 Очень важная часть программирования систем использующих LLM.
-
 https://en.wikipedia.org/wiki/Prompt_engineering
 https://en.wikipedia.org/wiki/Prompt_engineering#Chain-of-thought
+
+
+##### LLM prompting guide - hf (artile-l)
+https://huggingface.co/docs/transformers/en/tasks/prompting#best-practices-of-llm-prompting
+Large Language Models such as Falcon, LLaMA, etc. are pretrained transformer models initially trained to predict the next token given some input text. They typically have billions of parameters and have been trained on trillions of tokens for an extended period of time. As a result, these models become quite powerful and versatile, and you can use them to solve multiple NLP tasks out of the box by instructing the models with natural language prompts.
+
 
 ### Links (unsorted)
 
