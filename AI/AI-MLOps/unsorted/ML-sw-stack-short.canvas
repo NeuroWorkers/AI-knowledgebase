@@ -1,0 +1,16 @@
+{
+	"nodes":[
+		{"id":"bf62d1dd3746a73f","type":"text","text":"### \"engine\", низкий уровень\nПример: pytorch\nБиблиотека которая выполняет математические расчеты над массивом данных (моделью)","x":-280,"y":160,"width":480,"height":160},
+		{"id":"d507bc37b6983c5c","type":"text","text":"##### Файл модели","x":-280,"y":340,"width":480,"height":60},
+		{"id":"34b2a4a57a62e681","type":"text","text":"#### Model Serving, Model running, Model server\nПример: Ollama\nСервер (часто в докер образе) который висит в кубере или сам и принимает/отвечает на API запросы приложений\n\n","x":-280,"y":-80,"width":480,"height":200},
+		{"id":"d9c161c93a314894","type":"text","text":"#### Платформы-боты для разработчика.\nПримеры: OpenWebUI, Text generation web UI, jan.ai, GPT4All \nУровень риложения, LLM UI  ж web UI, CLI ui, ... Платформы-боты для разработчика. Могут иметь rest API что бы прелоставлять доступ к сконфигурированому/напрограммированому боту к боту интерфейса к конечному пользователю.","x":-440,"y":-460,"width":430,"height":320},
+		{"id":"9128e81e426a19db","type":"text","text":"#### Уровень приложения, UI LLM\n\nБоты интерфеса с конечным юезром, клиентом. Тлеграмм боты, Ваб боты.","x":40,"y":-530,"width":450,"height":140}
+	],
+	"edges":[
+		{"id":"ecee8b7ada260642","fromNode":"34b2a4a57a62e681","fromSide":"bottom","toNode":"bf62d1dd3746a73f","toSide":"top"},
+		{"id":"7fa9768e19200bf1","fromNode":"bf62d1dd3746a73f","fromSide":"bottom","toNode":"d507bc37b6983c5c","toSide":"top"},
+		{"id":"7d54c636a98324b4","fromNode":"d9c161c93a314894","fromSide":"bottom","toNode":"34b2a4a57a62e681","toSide":"top"},
+		{"id":"89677f165263f458","fromNode":"9128e81e426a19db","fromSide":"left","toNode":"d9c161c93a314894","toSide":"right"},
+		{"id":"60231871dcaa133d","fromNode":"9128e81e426a19db","fromSide":"bottom","toNode":"34b2a4a57a62e681","toSide":"top"}
+	]
+}

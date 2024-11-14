@@ -2,10 +2,10 @@
 aliases:
   - Jan.ai 
 up:
-  - [[MLOps]]
+  - [[AI-MLOps]]
 ---
-up:  [[MLOps]]
-up: [[MLOps#LLM (web) UI]]
+up:  [[AI-MLOps]] 
+up: [[AI-MLOps#LLM (web) UI]]
 # Jan.ai
 <font color="#ffff00">by defaut GUI (not WEB)</font> , есть docker (для режима сервера?)
 написан на электроне, т.е веб версию сделать должно быть легко

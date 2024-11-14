@@ -4,9 +4,9 @@ aliases:
   - TextGenWebUI
   - oogabooga (Text generation web UI)
 up:
-  - [[MLOps]]
+  - [[AI-MLops]]
 ---
-up:  [[MLOps]]
+up: [[AI-MLops]]
 # Text generation web UI, oogabooga
 oogabooga - Text generation web UI
 (oogabooga). Язык: <font color="#00b050">Python</font>   Gradio is an open-source Python package that allows you to quickly build a demo or web application
@@ -19,7 +19,9 @@ https://github.com/oobabooga/text-generation-webui
 https://www.reddit.com/r/Oobabooga/
 
 
-
+Help Start
+https://github.com/oobabooga/text-generation-webui/wiki/01-%E2%80%90-Chat-Tab
+google: // Text generation web UI reddit
 
 
 Использует miniconda, ставит себе pytorch

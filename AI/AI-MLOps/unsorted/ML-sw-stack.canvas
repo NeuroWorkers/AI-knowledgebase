@@ -1,0 +1,34 @@
+{
+	"nodes":[
+		{"id":"a74328a93504aee0","x":-419,"y":-444,"width":1026,"height":193,"type":"group","label":"ИИ платформы с сервисами(endpoints)"},
+		{"id":"4cc312a0aea4262b","x":-419,"y":-192,"width":1026,"height":166,"type":"group","label":"ИИ фрейморки"},
+		{"id":"c389cb06cd2c8359","type":"group","x":-419,"y":-602,"width":1026,"height":100,"label":"чат-боты"},
+		{"id":"beb1c5d3544c029a","type":"group","x":-377,"y":46,"width":942,"height":100,"label":"ML frameworks, \"engines\""},
+		{"id":"76e36e9217b9c3de","type":"text","text":"### Transformers  (Huggingface  )\nframework\npipelines, etc","x":-170,"y":-155,"width":250,"height":95},
+		{"id":"0caa09e4e3994a32","type":"text","text":"### langchain\nframework","x":103,"y":-169,"width":192,"height":99,"color":"3"},
+		{"id":"877b49f5a811e22b","type":"text","text":"### lmstudio\nas platform","x":47,"y":-408,"width":216,"height":93},
+		{"id":"fe8e9e90219e0550","type":"text","text":"## Ollama","x":-384,"y":-424,"width":189,"height":60},
+		{"id":"ad4c3ceff83994c2","type":"text","text":"#### llama.cpp","x":-384,"y":-364,"width":189,"height":58},
+		{"id":"64de6dcaa54d8afe","type":"text","text":"## jan.ai\n**as platform**","x":-171,"y":-397,"width":159,"height":82},
+		{"id":"cf6b34e8e8b8e843","type":"text","text":"# ПРИЛОЖЕНИЯ","x":411,"y":-670,"width":294,"height":65},
+		{"id":"e3f3ea1cacae737b","type":"text","text":"## OpenWebUI","x":-399,"y":-582,"width":219,"height":60},
+		{"id":"9035638a7810b3ee","type":"text","text":"# jan.ai","x":-164,"y":-582,"width":144,"height":60},
+		{"id":"7450a8f8e28f4ad9","type":"text","text":"... и другие","x":9,"y":-582,"width":161,"height":60},
+		{"id":"773f2aa28bfc8394","type":"text","text":"#  локальный чат бот","x":234,"y":-582,"width":353,"height":60},
+		{"id":"7a2da7e5a1a8cb60","type":"text","text":"**pytorch**","x":-344,"y":66,"width":140,"height":50},
+		{"id":"3762f517d9652d66","type":"text","text":"MPI pytorch","x":-151,"y":66,"width":174,"height":50},
+		{"id":"ace21aaac7598dd0","type":"text","text":"tensorflow","x":61,"y":66,"width":160,"height":50},
+		{"id":"bb376ae69b2c03a6","type":"text","text":"... ML framworks","x":265,"y":66,"width":200,"height":50},
+		{"id":"98acc1919fe95ee6","type":"text","text":"## ...........    (LLM) model file(s)  ......\n.pt or . pth - PyTorch  ;   .gguf - Hugging Face's file\n","x":-204,"y":226,"width":531,"height":100},
+		{"id":"241b5950049db99e","type":"text","text":"","x":-384,"y":326,"width":64,"height":50},
+		{"id":"d967d46a7df64856","type":"text","text":"### Huggingface \nutiles/services","x":286,"y":-409,"width":250,"height":95}
+	],
+	"edges":[
+		{"id":"fb232149f88b778b","fromNode":"bb376ae69b2c03a6","fromSide":"bottom","toNode":"98acc1919fe95ee6","toSide":"top"},
+		{"id":"9a72b47705023a49","fromNode":"7a2da7e5a1a8cb60","fromSide":"bottom","toNode":"98acc1919fe95ee6","toSide":"top"},
+		{"id":"7551cf8aa2039a78","fromNode":"3762f517d9652d66","fromSide":"bottom","toNode":"98acc1919fe95ee6","toSide":"top"},
+		{"id":"ce56276fc3d454b7","fromNode":"fe8e9e90219e0550","fromSide":"top","toNode":"e3f3ea1cacae737b","toSide":"bottom"},
+		{"id":"bcbe8fa3fa3ed563","fromNode":"877b49f5a811e22b","fromSide":"top","toNode":"7450a8f8e28f4ad9","toSide":"bottom"},
+		{"id":"ff3e32f7dee2428d","fromNode":"64de6dcaa54d8afe","fromSide":"top","toNode":"9035638a7810b3ee","toSide":"bottom"}
+	]
+}

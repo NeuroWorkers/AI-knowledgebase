@@ -1,19 +1,23 @@
 ---
 aliases:
   - OpenWebUI
+  - Open Web UI
 up:
-  - [[MLOps]]
+  - [[AI-MLops]]
 ---
-up:  [[MLOps]]
+up:  [[AI-MLops]]
 
 # OpenWebUI
 Open Web UI ; openwebui
 (used with [[#Ollama]])  
 OpenWebUI - This is a specific web UI framework designed for building and deploying LLM applications (C) Gemini
 
-
 ВАЖНО: https://docs.openwebui.com/getting-started/ ; https://docs.openwebui.com/
 
+##### Getting Started with Open WebUI
+https://docs.openwebui.com/getting-started/
+Getting Started with Open WebUI
+Get up and running quickly with our [Quick Start Guide](https://docs.openwebui.com/getting-started/quick-start).
 
 
 

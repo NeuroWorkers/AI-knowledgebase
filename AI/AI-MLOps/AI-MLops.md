@@ -1,6 +1,5 @@
-up: [[AI-MLops]] ; see [[MLOps-flow]]
-# MLOps 
-![[AI-MLops#< AI-MLops MLOps >]]
+up: [[AI]] ; see [[AI-MLOps-flow]]
+# AI MLOps 
 
 ##### AI software Stack
 , ИИ софтверный стек-->  [[ML-sw-stack.canvas]]
@@ -22,10 +21,7 @@ OpenWebUI, Oogabooga (Text generation web UI), GPT4All,
 LibreChat, YakGPT, и еще много. 
 
 
-jan.ai, 
-
-chat client only, use SillyTavern instead
-use LibreChat instead.
+jan.ai / SillyTavern  /  LibreChat 
 xxxx as OpenAI API client
 
 ##### Oogabooga (Text generation web UI)
@@ -45,7 +41,7 @@ text-generation-webui
 ##### YakGPT
 https://github.com/yakGPT/yakGPT
 
-##### jan.ai   (BIG)
+##### jan.ai (BIG)
 <font color="#ffff00">by defaut GUI (not WEB)</font> , есть docker (для режима сервера?)
 [[Jan.ai]]
 
@@ -66,12 +62,15 @@ https://www.axelmendoza.com/posts/model-server/#what-is-a-model-serving-runtime
 Что такое MLOps? ... (article habr) --> [>>](https://habr.com/ru/companies/selectel/articles/703460/#:~:text=%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9%20Serving%20Engine%29%2C-,Model%20Serving,-%2C%20%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B9%20%D0%B2%20%D1%80%D0%B0%D0%BC%D0%BA%D0%B0%D1%85)  -->
 
 ##### Ollama
-[[Ollama]]    platform for running LLMs on your local machine.
+[[Ollama-f]]    platform for running LLMs on your local machine.
+NOTE:  ollama is <font color="#ffff00">Model server</font>, see [[AI-concept#Model server (LLM Model server)|Model server (LLM Model server)]]
+
 ollama uses llama.cpp under the hood
 llama.cpp  <font color="#ffff00">llama.cpp</font>
 By default, Ollama saves its models in the ~/. ollama/models directory, which contains both model blobs and manifests.
 
 ##### LM Studio (as model server)
+See [[#LM Studio (BIG)(as chat)]]
 Ollama focuses on simplicity and ease of use, whereas LM Studio provides a richer feature set and a larger model library.
 https://lmstudio.ai/
 see: https://www.gpu-mart.com/blog/ollama-vs-lm-studio
@@ -97,7 +96,7 @@ https://docs.langchain4j.dev/integrations/language-models/ollama/
 ### Misc AI
 
 ##### whisper
-[[whisper-mlops]]  ( AI / .. /[[Wisper-AI]]  )
+[[whisper-mlops]]  ( AI / .. /[[WisperAI-m]]  )
 
 ### Model files formats
 |extentions
