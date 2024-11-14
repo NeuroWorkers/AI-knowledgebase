@@ -5,7 +5,7 @@
 		{"type":"text","text":"## Программерский \n### Programming, Software Engeneering, MLOps\n","id":"0b9fd3a17b8632f5","x":-208,"y":-78,"width":349,"height":148,"color":"3"},
 		{"type":"text","text":"# МАТАН\n## Алгоритмы","id":"dd1458799d48ea8d","x":-176,"y":-466,"width":291,"height":130,"color":"#608bc3"},
 		{"type":"text","text":"Промпты (базис), Использование сервисов, навыки \"нарисовать картинку ИИ\"","id":"ab661a174c19ebc6","x":174,"y":126,"width":305,"height":132},
-		{"type":"file","file":"AI/base/AI-engeenering-structure.canvas","id":"f0ff610cbcb8d835","x":237,"y":-154,"width":161,"height":89},
+		{"type":"file","file":"AI2/base2/AI-engeenering-structure.canvas","id":"f0ff610cbcb8d835","x":237,"y":-154,"width":161,"height":89},
 		{"type":"text","text":"## Юзерский\n### User level","id":"b5feb51e84c211d7","x":-180,"y":133,"width":298,"height":118,"color":"6"},
 		{"type":"text","text":"","id":"901ab142a665dd88","x":-481,"y":195,"width":61,"height":50},
 		{"type":"text","text":"### ML engineer ","id":"5c6c31cdd6183761","x":-530,"y":-56,"width":250,"height":110,"color":"5"},

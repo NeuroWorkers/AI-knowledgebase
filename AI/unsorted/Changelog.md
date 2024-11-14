@@ -1,3 +1,8 @@
+
+##### 2024-11-14
+Continue the reorganization of structcture and prepared content addition.
+Call it version 0.2 
+
 ##### 2024-11-08
 Massive re-org with content additions. Now knowledge base have more-less good
 structure. Browsing starting from AI/AI.md

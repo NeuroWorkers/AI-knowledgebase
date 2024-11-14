@@ -2,10 +2,10 @@
 aliases:
   - Ollama (as framework)
 up:
-  - [[MLOps#Ollama]]
+  - [[AI-MLOps#Ollama]]
 ---
 
-up: [[MLOps#Ollama]]
+up: [[AI-MLOps#Ollama]]
 
 up:  
 
