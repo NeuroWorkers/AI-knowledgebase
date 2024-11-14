@@ -10,6 +10,7 @@ aliases:
 https://en.wikipedia.org/wiki/Convolutional_neural_network
 https://ru.wikipedia.org/wiki/Свёрточная_нейронная_сеть 
 
+[[ABGuide-TU-Convolutional-NN|A Beginner's Guide To Understanding Convolutional Neural Networks (article)]]
 
 #### instruct (suffix for LLM file)
 
@@ -38,14 +39,9 @@ It came out 2 days ago and apparently, it's a 20B LLM base with a 6B vision mode
 
 
 #### Structured Output
+See: [[Structured-output|Structured output]]
 It is often crucial to have LLMs return structured output. 
 How: Prompting ; Function calling ; Tool calling; JSON mode
-
-Prompting: This is when you ask the LLM (very nicely) to return output in the desired format (JSON, XML). This is nice because it works with all LLMs. It is not nice because there is no guarantee that the LLM returns the output in the right format.
-Function calling: This is when the LLM is fine-tuned to be able to not just generate a completion, but also generate a function call. The functions the LLM can call are generally passed as extra parameters to the model API. The function names and descriptions should be treated as part of the prompt (they usually count against token counts, and are used by the LLM to decide what to do).
-Tool calling: A technique similar to function calling, but it allows the LLM to call multiple functions at the same time.
-JSON mode: This is when the LLM is guaranteed to return JSON.
-
 
 #### LLM Reasoning
 LLM Reasoning ability
@@ -78,31 +74,6 @@ https://ml-system-design.ru/blog/inference/типы-инференса-ml-мод
 
 ###### inference pipeline
 https://www.hopsworks.ai/dictionary/inference-pipeline
-
-
-#### Context window, Контекстное окно (flow)
-
-##### \*  Оценка LLM с большим окном контекста
-Sivchenko_translate 2 авг 2023 https://habr.com/ru/articles/752062/
-MTS AI  .... свои фундаментальные языковые модели. ...  получилось достичь уровня gpt-4 на собственном ограниченном датасете большого контекста.
-
-
-
-##### \*  Как сделать контекстное окно на 100K в большой языковой модели: обо всех фокусах в одном посте
-Sivchenko_translate   2 авг 2023  https://habr.com/ru/articles/752062/
-
-в статье рассмотрены приёмы, позволяющие ускорить обучение больших языковых моделей (LLM) и нарастить в них вывод (inference). Для этого нужно использовать большое контекстное окно, в котором умещается до 100K входных токенов. Вот эти приёмы: ALiBi с подмешиванием в вектор позиции слова в последовательности (positional embedding), разреженное внимание (Sparse Attention), мгновенное внимание (Flash Attention),
-
-
-
-#### Context window size
-
-2023 <font color="#ffff00">65K</font> , <font color="#ffff00">100K</font>   ,  GPT-4 <font color="#00b050">32K</font> токенов. опенсорс LLM <font color="#00b050">2K</font>
-
-Недавно прошло несколько анонсов по поводу новых больших языковых моделей (LLM), настроенных на приём исключительно крупного контекстного окна, целых 65K токенов (MPT-7B-StoryWriter-65k+ от MosaicML) или даже 100K токенов (описано в статье Introducing 100K Context Windows от Antropic)
-...
-Для сравнения: современная модель GPT-4 может работать, получая контекст длиной 32K входных токенов. Большинство же опенсорсных моделей LLM работают с контекстным окном длиной 2K токенов.
-see: [[#* Как сделать контекстное окно на 100K в большой языковой модели обо всех фокусах в одном посте]]
 
 
 #### Fine-tuning (flow)
