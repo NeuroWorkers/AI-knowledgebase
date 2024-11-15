@@ -1,3 +1,5 @@
+##### 2024-11-15
+fixes andmini updates (tokenizers
 
 ##### 2024-11-14
 Continue the reorganization of structcture and prepared content addition.
