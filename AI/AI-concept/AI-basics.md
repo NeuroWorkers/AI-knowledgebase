@@ -35,8 +35,7 @@ https://www.techtarget.com/searchenterpriseai/definition/generative-AI
 example: LLM - large language model
 модель (нейронной сети) ==> [[AI-Model]]
 #### LLM - large language model
-Это то что внутри ChatGPT.
-See: [[LLM]]
+Это то что внутри ChatGPT. See: [[LLM]]
 #### text-to-image model 
 Takes natural language description and generate an image matching description.  See [[AI-Model#text-to-image model]]
 #### Foundation models
@@ -59,7 +58,7 @@ https://arxiv.org/abs/2302.13971
 #### arxiv// LLaMA: Open and Efficient Foundation Language Models
 We introduce LLaMA, a collection of foundation language models ranging from 7B to 65B parameters.... on trillions of tokens
 
-see more ---> [[LLaMA]]
+see more ---> [[LLaMA-2]]
 
 ----
 ### Prompt, Prompt engineering

@@ -10,21 +10,23 @@ ML -> Deep Lerning -> Neural Networks -> LLM, Text2Img  (AI) ; See: [[AI-basics]
 # AI-concept
 ## AI concepts - Fundamental
 
-#### NLP - natural language processing 
+### NLP - natural language processing 
 What is NLP (natural language processing)?
 https://www.ibm.com/topics/natural-language-processing
 
+### Model (AI)
+[[AI-Model|Model (AI)]]
 #### LLM
 See [[LLM]] ; 
 ##### Multimodal LLM
 multimodal LLM is an AI system trained with multiple modes of data. For instance, existing multimodal LLM are trained on image, text, and audio data. --> [[AI-Model#Multimodal LLMs]]
 
 ### Inference (Model Inference)
-основное юзерское использование модели - запрашиваем ей запрос и получаем результат. --> [[AI-flow#Inference (Model Inference)|Inference (Model Inference)]]
-See: [[#Chaining, Inference chaining, LLM chaining]]
+основное юзерское использование модели - запрашиваем ей запрос и получаем результат. --> [[Inference#Inference (Model Inference)|Inference (Model Inference)]]
+See also: [[#Chaining, Inference chaining, LLM chaining]]
 
 ### Context window
-Alisas: Контекстное окно, 
+Alias: Контекстное окно, 
 See: [[Context-window]]
 ##### Context window size 
 [[Context-window#Context window size]]
@@ -36,19 +38,18 @@ See: [[In-context-learning|ICL (In-context learning)]]
 N-shot learning is when an machine learning model can learn a new task by seeing N examples of that task.
 See [[FSL]]
 
+### Zero-shot learning
+See: [[Zero-shot|Zero-shot learning]]
 
 ### RLHF - Reinforcement Learning from Human Feedback
 Reinforcement Learning from Human Feedback, RLHF
 [[howto-StackLLaMA---LLaMA-RLHF]]
 
 «обучение с подкреплением на основе отзывов людей» (Reinforcement Learning from Human Feedback, RLHF)
-
-
 ### Structured Output
 It is often crucial to have LLMs return structured output. 
 How: Prompting ; Function calling ; Tool calling; JSON mode
-[[AI-flow#Structured Output]] [[Structured-output|Structured output]]
-
+[[Structured-output|Structured output]]
 
 ### Quantization
 ... weights and/or activations. Convert the high precision numbers, typically used in neural networks, to lower precision formats. For example, 32-bit floating point could be converted to 16-bit.
@@ -58,6 +59,9 @@ AI: Building a LLM but want to keep computational costs down? Deep Dive into Qua
 
 ### Model output size
 See: [[AI-flow#Model output size (flow)]]
+
+### LLM Reasoning
+[[LLM-Reasoning]]
 
 ### LLM agents
 LLM Агенты ; статья: LLM field landscape  https://habr.com/ru/articles/814665/
@@ -74,7 +78,7 @@ GPT tokenizers, GPT token decoder and encoder.
 ## AI-methods
 
 ### Fine-tuning
-Fine-tuning is where you take an already-pre-trained model and further train it on a more specific dataset...  [[AI-flow#Fine-tuning (flow)]]
+Fine-tuning is where you take an already-pre-trained model and further train it on a more specific dataset...  See: [[Fine-tuning]]
 
 
 ### Embedding (AI)

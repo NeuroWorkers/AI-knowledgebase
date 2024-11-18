@@ -1,13 +1,12 @@
 ---
-tags: [ "AI/t/model", AI/Fundamental]
+aliases:
+  - LLaMA (Family of models)
+up:
+  - [[AI#AI Models]]
 ---
-
-### LLaMA (+)
-Facebook©
-<span style="background:#affad1">OPENSOURCE</span>
-<span style="background:#40a9ff">FUNDAMENTAL</span>
-### /end
-
+up:  [[AI#AI Models]]
+# LLaMA
+Family of models
 NOTE: Автор - [[Meta]]
 
 ----
@@ -24,4 +23,9 @@ https://ai.meta.com/blog/meta-llama-3/
 
  > 5% of the Llama 3 pretraining dataset consists of high-quality non-English data that covers over 30 languages. However, we do not expect the same level of performance in these languages as in English.
 https://ai.meta.com/blog/meta-llama-3/#:~:text=over%205%25%20of%20the%20Llama%203%20pretraining%20dataset%20consists%20of%20high%2Dquality%20non%2DEnglish%20data
+^5-percent
 
+### LLaMA model architecture
+See more: [[Get-LLaMA-Running-with-Gradient#The LLaMA architecture]]
+
+![[fc4759ad83c6258de5c8522377e1721c_MD5.opti.webp]]

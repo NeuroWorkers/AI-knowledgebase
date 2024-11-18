@@ -45,8 +45,14 @@ https://github.com/yakGPT/yakGPT
 <font color="#ffff00">by defaut GUI (not WEB)</font> , есть docker (для режима сервера?)
 [[Jan.ai]]
 
+##### LMstudio
+see [[#LM Studio (BIG)(as chat)]]
 ##### LM Studio (BIG)(as chat)
 [[#LM Studio (as model server)]]
+https://lmstudio.ai/
+https://lmstudio.ai/docs/cli
+LM Studio ships with lms, a command line tool for scripting and automating your local LLM workflows.
+
 
 
 ### Remote AI APIs
@@ -68,6 +74,8 @@ NOTE:  ollama is <font color="#ffff00">Model server</font>, see [[AI-concept#Mod
 ollama uses llama.cpp under the hood
 llama.cpp  <font color="#ffff00">llama.cpp</font>
 By default, Ollama saves its models in the ~/. ollama/models directory, which contains both model blobs and manifests.
+https://www.together.ai/
+https://www.together.ai/products#inference
 
 ##### LM Studio (as model server)
 See [[#LM Studio (BIG)(as chat)]]

@@ -6,7 +6,7 @@ up:
 ---
 up:  [[AI-concept]]
 
-See: [[AI-concept#Inference (Model Inference)|Inference (Model Inference)]]
+See also: [[AI-concept#Inference (Model Inference)|Inference (Model Inference)]] ;See also: [[AI-Prompts|Prompt engineering]]
 ### Chaining, Inference chaining, LLM chaining
 
 is commonly referred to as "chaining" or more specifically, "inference chaining" or "LLM chaining." Here are some related terms and concepts:

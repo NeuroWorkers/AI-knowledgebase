@@ -12,6 +12,9 @@ Keywords: AI-speech /  AI-speech recognition / ASR / automatic speech recognitio
 Transcription
 https://en.wikipedia.org/wiki/Speech_recognition
 
+##### Transcription, Speech recognition
+See above: [[#ASR - Automatic Speech Recognition]]
+
 ### Diarization (Speaker identification)
 Transcription and diarization (speaker identification)
 See: [[Diarization]] - для разделение спикеров

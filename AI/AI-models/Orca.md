@@ -10,14 +10,14 @@ PROBABLY <font color="#00b0f0">LLaMA</font> based
 uplink>> [[AI-models2.canvas]] 
 
 # Orca (model)
-NOTE: StableVicuna это <font color="#00b0f0">model</font> ( -->  [[AI-basics#Model]] )
-NOTE: Orca PROBABLY based on <font color="#00b0f0">LLaMA</font> ( --> [[LLaMA]]   ) See ---> [[Orca#^1d8629]]
+NOTE: Orca это <font color="#00b0f0">model</font> ( -->  [[AI-basics#Model]] )
+NOTE: Orca PROBABLY based on <font color="#00b0f0">LLaMA</font> ( --> [[LLaMA-2]]   ) See ---> [[Orca#^1d8629]]
 
 
 ----
 orca model
 https://www.youtube.com/watch?v=Dt_UNg7Mchg
-(source:   [[AI-sources#@src AI explained (YOUTUBE)|AI explained (YOUTUBE)]])
+(source:   [[AI-sources.2#@src AI explained (YOUTUBE)|AI explained (YOUTUBE)]])
 
 .... do you remember this paper less than twoweeks old. it made Waves by concluding
 that open source models can mimic the style but not the factuality of chat GPT ....

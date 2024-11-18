@@ -14,6 +14,10 @@ Services with web interface to AI coding, thatallow to ru LLM, etc.
 
 ### Сервисы для запуска моделей
 
+#### together.ai
+был в одном из ютуб роликов
+https://www.together.ai/
+https://www.together.ai/products#inference
 
 
 ###  Сервисы для кода

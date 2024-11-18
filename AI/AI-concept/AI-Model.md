@@ -31,6 +31,8 @@ See: [[LLM]]
 multimodal LLM is an AI system trained with multiple modes of data. For instance, existing multimodal LLM are trained on image, text, and audio data.
 
 ### Foundation models
+#### Base model
+A foundation model (also called base model) [wiki(C)](https://en.wikipedia.org/wiki/Foundation_models)
 #### Large foundation models, LFM
 Фундаментальные модель
 
@@ -58,3 +60,8 @@ from Google Gemini:
 **Other Types**
 - **Reinforcement Learning Models:** These models learn to make decisions by interacting with an environment and receiving rewards or penalties. Examples include AlphaGo and OpenAI Five.  
 - **Recommender Systems:** These models recommend products or content to users based on their past behavior. Examples include collaborative filtering and content-based filtering.  
+
+#### other sources:
+##### Sparse Models (type)
+See: [[Sparse|Sparse Models]]  
+![[Sparse#^tldr]]

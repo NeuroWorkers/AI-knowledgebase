@@ -13,14 +13,13 @@ up:  [[AI]]
 [[#Stanford]]   |  [[Mistral-AI]]  |  [[Nomic-AI]] | [[Stability-AI]]  
 
 ### MosaicML
-Mozilla (Firefox) Foundation
-[[mosaic-MPT]]
-
+Mozilla (Firefox) Foundation See: [[MPT|MPT (MosaicML)]]
+https://www.mosaicml.com/
 ### Stanford
 Stanford University  https://en.wikipedia.org/wiki/Stanford_University
 Models: Alpaca
 Descendants (Потомки):
-Vicuna StableVicuna
+Vicuna [[StableVicuna]]
 
 
 

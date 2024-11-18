@@ -10,7 +10,9 @@ up:  [[AI-Eng]]
 
 
 
-
+#### Sparse Models (optimization)
+[[Sparse|Sparse Models]]  
+![[Sparse#^tldr]]
 
 ##### TPI-LLM: Serving 70B-scale LLMs Efficiently on Low-resource Edge Devices (article-l)
 https://www.reddit.com/r/LocalLLaMA/comments/1fvc44x/tpillm_serving_70bscale_llms_efficiently_on/

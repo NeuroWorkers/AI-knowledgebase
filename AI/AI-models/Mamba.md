@@ -1,7 +1,15 @@
+---
+aliases:
+  - Mamba (model)
+up:
+  - [[AI#AI Models]]
+---
+up:  [[AI#AI Models]]
 # Mamba
 Mamba-3B, SSM, not-[[Transformers--model-arch|Transformers]]
 
-
+#### SSMs - Structured state space models
+See below
 #### arxiv.org
 https://arxiv.org/abs/2312.00752
 Mamba: Linear-Time Sequence Modeling with Selective State Spaces

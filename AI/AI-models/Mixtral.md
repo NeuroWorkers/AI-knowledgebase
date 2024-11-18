@@ -1,3 +1,11 @@
+---
+aliases:
+  - Mixtral (model)
+  - Mixtral (Mixture of Experts model)
+up:
+  - [[AI#AI Models]]
+---
+up:  [[AI#AI Models]]
 # Mixtral
 Mixtral-8x7B.
 https://huggingface.co/docs/transformers/en/model_doc/mixtral
@@ -6,6 +14,14 @@ https://huggingface.co/docs/transformers/en/model_doc/mixtral
 https://huggingface.co/blog/moe
 
 see [[#MoE – Mixture of Experts – это не просто «склеить восемь сеток»]]
+
+
+https://mistral.ai/news/mixtral-of-experts/
+Today, the team is proud to release Mixtral 8x7B, a high-quality sparse mixture of experts model (SMoE) with open weights. Licensed under Apache 2.0. Mixtral outperforms Llama 2 70B on most benchmarks with 6x faster inference.
+
+https://www.promptingguide.ai/models/mixtral
+In this guide, we provide an overview of the Mixtral 8x7B model, including prompts and usage examples. The guide also includes tips, applications, limitations, papers, and additional reading materials related to Mixtral 8x7B.
+
 
 #### Orig 2023-12
 

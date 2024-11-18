@@ -13,3 +13,6 @@ https://github.com/nomic-ai/gpt4all
 Qt based GUI for GPT4All
 https://flathub.org/apps/io.gpt4all.gpt4all
 
+
+
+![[12-GPT-4-alike-FOSS@a#4. GPT4ALL]]

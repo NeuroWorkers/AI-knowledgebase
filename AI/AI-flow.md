@@ -12,12 +12,6 @@ https://ru.wikipedia.org/wiki/Свёрточная_нейронная_сеть
 
 [[ABGuide-TU-Convolutional-NN|A Beginner's Guide To Understanding Convolutional Neural Networks (article)]]
 
-#### instruct (suffix for LLM file)
-
-As you browse the ever growing global catalogue of generative AI models, you will see some of the Large Language Models (LLMs) being listed with the suffix 'instruct' or 'chat'. What does this mean?
-
-TL:DR; The 'instruct' version of the model has been fine-tuned to be able to follow prompted instructions. These models 'expect' to be asked to do something. Models with the 'chat' suffix have been fine-tuned to work in chatbots. These models 'expect' to be involved in a conversation with different actors. In contrast non-instruct tuned models will simply generate an output that follows on from the prompt. If you are making a chatbot, implementing RAG or using agents, use instruct or chat models. If in doubt us an instruct model.
-
 
 #### Model output size (flow)
 google:// chat gpt output size
@@ -38,52 +32,29 @@ The BEST open source Multimodal LLM I've seen so far - InternVL-Chat-V1.5   http
 It came out 2 days ago and apparently, it's a 20B LLM base with a 6B vision model that can accept up to a 4k(!) image.  github.com/OpenGVLab/InternVL
 
 
-#### Structured Output
-See: [[Structured-output|Structured output]]
-It is often crucial to have LLMs return structured output. 
-How: Prompting ; Function calling ; Tool calling; JSON mode
-
-#### LLM Reasoning
-LLM Reasoning ability
-> LLM Reasoning // Prompt Engineering Guide : https://www.promptingguide.ai › research › llm-reasoning // More recently, LLMs have shown the potential to exhibit reasoning abilities when scaled to a large enough size. https://www.promptingguide.ai/research/llm-reasoning
+#### [D] Why fine tune a 65B LLM instead of using established task specific smaller models (~200 millions)?
 
 
-atfortes/Awesome-LLM-Reasoning
-[atfortes/Awesome-LLM-Reasoning](https://github.com/atfortes/Awesome-LLM-Reasoning)
-Curated collection of papers and resources on how to unlock the reasoning ability of LLMs and MLLMs
+![[reddit--header.webp]]
 
-Curated collection of papers and resources on _how to unlock the reasoning ability of LLMs_ and MLLMs.
-#### Independency temperature (prompts)
+https://www.reddit.com/r/MachineLearning/comments/15xfesk/d_why_fine_tune_a_65b_llm_instead_of_using/
+
+[u/EnthusiasmNew7222](https://www.reddit.com/user/EnthusiasmNew7222/)
+
+![[084f75bc3561455853fd617bf633084a_MD5.png]]
+
+[Discussion](https://www.reddit.com/r/MachineLearning/search?q=flair_name%3A%22Discussion%22&restrict_sr=1)
+... Everywhere I look today (medium, reddit, twitter) everyone is talking about fine-tuning LLMs. How the future is taking billion size models and fine-tuning/distilling them to specialised LLMs that perform specific tasks (i.e: sentiment analysis, Q&A, summarisation).
+
+Why not just use “small” (millions vs billion size) models
+
+
+#### Independency temperature
 "required independency temperature", как в промпте 
+ (prompts)
 
-#### Inference (Model Inference)
-основное юзерское использование модели - запрашиваем ей запрос и получаем результат.
-
-> Model inference (or machine learning inference) is when a model makes predictions on new, unseen input data (inference data) and produces predictions as output that are consumed by a user or service.  https://www.hopsworks.ai/dictionary/model-inference
-
-https://www.hopsworks.ai/dictionary/model-inference
-Model inference requires a: 
-ML model || inference data || an inference pipeline || prediction consumer. 
-‍Batch Model Inference -> ...
-‍Online Model Inference -> request-response network services, exposed as a REST or gRPC endpoint (authentication & access control )
-
-
-###### Типы инференса ML моделей (article)
-https://ml-system-design.ru/blog/inference/типы-инференса-ml-моделей 
-
-
-###### inference pipeline
-https://www.hopsworks.ai/dictionary/inference-pipeline
-
-
-#### Fine-tuning (flow)
-Fine-tuning in machine learning is the process of adapting a pre-trained model for specific tasks or use cases. https://www.ibm.com/topics/fine-tuning
-
-
->  Fine-tuning is where you take an already-pre-trained model and further train it on a more specific dataset. This dataset is typically smaller and focused on a particular domain or task. The purpose of fine-tuning is to adapt the model to perform better in specific scenarios or on tasks that were not well covered during pre-training. The new knowledge added during fine-tuning is more about enhancing the model's performance in specific contexts rather than broadly expanding its general knowledge.
-[reddit>>](https://www.reddit.com/r/learnmachinelearning/comments/19f04y3/comment/kjgtuwu/)
-
-
+Fine-tuning
+[[Fine-tuning]]
 
 #### embeddings  или fine-tuning? (misleading)
 embeddings  или fine-tuning?

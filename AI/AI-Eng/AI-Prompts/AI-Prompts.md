@@ -13,10 +13,18 @@ up: [[AI-Eng]] ; up:  [[AI-concept]]
 https://en.wikipedia.org/wiki/Prompt_engineering
 https://en.wikipedia.org/wiki/Prompt_engineering#Chain-of-thought
 
+##### Chaining, Inference chaining, LLM chaining
+[[Chaining#Chaining, Inference chaining, LLM chaining]]
 
+
+### Info / Articles
 ##### LLM prompting guide - hf (artile-l)
 https://huggingface.co/docs/transformers/en/tasks/prompting#best-practices-of-llm-prompting
 Large Language Models such as Falcon, LLaMA, etc. are pretrained transformer models initially trained to predict the next token given some input text. They typically have billions of parameters and have been trained on trillions of tokens for an extended period of time. As a result, these models become quite powerful and versatile, and you can use them to solve multiple NLP tasks out of the box by instructing the models with natural language prompts.
+
+##### A developer’s guide to prompt engineering and LLMs
+https://github.blog/2023-07-17-prompt-engineering-guide-generative-ai-llms/
+Prompt engineering is the art of communicating with a generative AI model. In this article, we’ll cover how we approach prompt engineering at GitHub, and how you can use it to build your own LLM-based application.
 
 
 ### Links (unsorted)

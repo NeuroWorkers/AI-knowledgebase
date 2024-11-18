@@ -15,6 +15,8 @@ AI Apps development, AI-Soft-dev
 
 [[Diarization#Diarization]]
 
+[[AI-on-CPU|AI on Low Resource Devices (CPU)]]
+
 AI-frameworks
 [[hf-transformers]]   [[Ollama-f]]  
 

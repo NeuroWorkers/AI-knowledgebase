@@ -24,6 +24,8 @@ up: [[AI]]
 3.AI.Eng - AI Engineering (and Software dev)
 AI.Soft.Dev - промпты, боты, агенты, взаимодействие агентов, тулкиты, RAG, фреймворки. 
 
+[[ELLMTrai-MCOptimization@a|Efficient LLM Training: Memory & Compute Optimization (article)]]
 ### 4 .MLOps
 4 .MLOps - ML Ops уровень - платформы, деплой, инсталляция
 
+[[12-GPT-4-alike-FOSS@a|12 GPT-4 Open-Source Alternatives]]
