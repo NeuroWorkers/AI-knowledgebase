@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Gemini
   - Gemini (Google) 
 up:
   - [[AI-services]]

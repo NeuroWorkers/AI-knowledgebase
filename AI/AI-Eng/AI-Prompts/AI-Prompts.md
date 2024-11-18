@@ -17,6 +17,33 @@ https://en.wikipedia.org/wiki/Prompt_engineering#Chain-of-thought
 [[Chaining#Chaining, Inference chaining, LLM chaining]]
 
 
+#### Prompts LLMs - 1
+ВАЖНО: google:// github llama prompts
+
+ВАЖНО:
+НА githabe коллекции промптов
+https://github.com/langgptai/awesome-llama-prompts
+https://github.com/langgptai/awesome-llama-prompts?tab=readme-ov-file#how-to-prompt-llama-3
+
+llama_index/llama-index-core/llama_index/core/prompts
+https://github.com/run-llama/llama_index/blob/main/llama-index-core/llama_index/core/prompts/chat_prompts.py
+
+https://vaulted-polonium-23c.notion.site/500-Best-ChatGPT-Prompts-63ef8a04a63c476ba306e1ec9a9b91c0
+500+ Best ChatGPT Prompts
+
+Prompt engineering 101
+https://habr.com/ru/companies/X5Tech/articles/827878/
+
+1. [Пособие по написанию промптов №1](https://www.promptingguide.ai/ru)
+2. [Пособие по написанию промптов №2](https://learnprompting.org/docs/intro)
+3. [Пособие по написанию промптов для генерации изображений](https://openart.ai/promptbook) 
+4. [Подборка готовых пропмтов №1](https://vaulted-polonium-23c.notion.site/500-Best-ChatGPT-Prompts-63ef8a04a63c476ba306e1ec9a9b91c0)
+5. [Подборка готовых промптов №2](https://promptvibes.com/)
+ 
+Изображения
+8. [Генератор промтов для изображений](https://app.aiprm.com/prompts/1783928876351885312/midjourney-prompt-generator)
+9. [Статья про извлечение промпта из изображения](https://blog.pincel.app/ai-prompt-extract/)
+
 ### Info / Articles
 ##### LLM prompting guide - hf (artile-l)
 https://huggingface.co/docs/transformers/en/tasks/prompting#best-practices-of-llm-prompting

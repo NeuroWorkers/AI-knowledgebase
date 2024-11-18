@@ -8,7 +8,7 @@ Aliases:
 SHORT: Структура базы знаний про ИИ
 [[AI-basics]]  + [[AI-concept]] // [[AI-concept#AI-methods|AI-methods (in AI-concept)]] // [[AI-articles]] //  AI-models + [[AI-centers]]  //
 [[AI-Eng|AI Software development]] /  AI-frameworks //   [[AI-MLops]]
-
+[[AI-Sources]] 
 ### AI concepts  - ИИ концепции
 [[AI-concept#AI concepts - Fundamental|AI concepts - Fundamental]] - Фундаментальные ИИ концепции
 [[AI-concept#AI-methods|AI-methods]]  - Методы ИИ
@@ -17,6 +17,7 @@ SHORT: Структура базы знаний про ИИ
 [[AI-Eng|AI Engineering]] - ИИ инженерия - разработка софта и самих моделей с "инженерной" точки зрения.
 #### AI Centers 
 [[AI-centers]] -Центры ИИ разработки, источники моделей, методов и прочих ИИ вещей.
+[[AI-Sources]] - большие коллекции информации об ИИ
 ##### AI Models
 [[AI-basics#Model|AI Models]] -  ИИ модели ( большие [[AI-basics#Neural Networks (ML)|нейронные сети]] )
 

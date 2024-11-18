@@ -32,29 +32,22 @@ The BEST open source Multimodal LLM I've seen so far - InternVL-Chat-V1.5   http
 It came out 2 days ago and apparently, it's a 20B LLM base with a 6B vision model that can accept up to a 4k(!) image.  github.com/OpenGVLab/InternVL
 
 
-#### [D] Why fine tune a 65B LLM instead of using established task specific smaller models (~200 millions)?
-
+#### Why fine tune a 65B LLM instead of using established task specific smaller models (~200 millions)?
 
 ![[reddit--header.webp]]
-
-https://www.reddit.com/r/MachineLearning/comments/15xfesk/d_why_fine_tune_a_65b_llm_instead_of_using/
-
-[u/EnthusiasmNew7222](https://www.reddit.com/user/EnthusiasmNew7222/)
-
-![[084f75bc3561455853fd617bf633084a_MD5.png]]
-
-[Discussion](https://www.reddit.com/r/MachineLearning/search?q=flair_name%3A%22Discussion%22&restrict_sr=1)
+https://www.reddit.com/r/MachineLearning/comments/15xfesk/d_why_fine_tune_a_65b_llm_instead_of_using/    [u/EnthusiasmNew7222](https://www.reddit.com/user/EnthusiasmNew7222/)
 ... Everywhere I look today (medium, reddit, twitter) everyone is talking about fine-tuning LLMs. How the future is taking billion size models and fine-tuning/distilling them to specialised LLMs that perform specific tasks (i.e: sentiment analysis, Q&A, summarisation).
 
 Why not just use “small” (millions vs billion size) models
 
 
-#### Independency temperature
-"required independency temperature", как в промпте 
- (prompts)
 
-Fine-tuning
-[[Fine-tuning]]
+### What infrastructure do you use to train big LLMs
+ What infrastructure do you use to train big LLMs?  : 
+	https://www.reddit.com/r/MachineLearning/comments/17iz8i1/r_what_infrastructure_do_you_use_to_train_big_llms/  
+	What infrastructure do you use to train big LLMs? 
+
+
 
 #### embeddings  или fine-tuning? (misleading)
 embeddings  или fine-tuning?
@@ -88,6 +81,15 @@ Embedding models behind APIs like OpenAI’s text-embedding-ada-002 are a great 
 
 https://www.youtube.com/shorts/35IpOK-WaNA
  The efficient compute frontier
+
+
+#### 2024-03-21 // Linguistic Fingerprinting with Python
+linguistic-fingerprinting-with-python
+https://medium.com/m/global-identity-2?redirectUrl=https%3A%2F%2Ftowardsdatascience.com%2Flinguistic-fingerprinting-with-python-5b128ae7a9fc
+Linguistic Fingerprinting with Python
+Attributing authorship with punctuation heatmaps
+member-only
+
 
 ------
 #### Prompt injection explained, with video, slides, and a transcript

@@ -10,7 +10,7 @@ up:  [[AI]]
 Центры разработки ИИ, NLP и тп - источники моделей и методов.
 
 [[claude-AI]]  |  [[Meta]]  |  [[Google]]  | Mozilla ( [[#MosaicML]])  |  [[MS]]  | [[OpenAI]]
-[[#Stanford]]   |  [[Mistral-AI]]  |  [[Nomic-AI]] | [[Stability-AI]]  
+[[#Stanford]]   |  [[Mistral-AI]]  |  [[Nomic-AI]] | [[Stability-AI]]  | [[Huggingface]] |
 
 ### MosaicML
 Mozilla (Firefox) Foundation See: [[MPT|MPT (MosaicML)]]

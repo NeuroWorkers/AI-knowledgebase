@@ -25,6 +25,9 @@ multimodal LLM is an AI system trained with multiple modes of data. For instance
 основное юзерское использование модели - запрашиваем ей запрос и получаем результат. --> [[Inference#Inference (Model Inference)|Inference (Model Inference)]]
 See also: [[#Chaining, Inference chaining, LLM chaining]]
 
+#### LLM Temperature
+[[Inference#LLM Temperature]]
+
 ### Context window
 Alias: Контекстное окно, 
 See: [[Context-window]]
