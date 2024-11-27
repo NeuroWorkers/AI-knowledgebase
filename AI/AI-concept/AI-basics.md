@@ -25,6 +25,13 @@ Machine learning [algorithms](https://en.wikipedia.org/wiki/Algorithm "Algorith
 ANN -artificial neural network, NN - neural net. ANN consists of connected nodes called artificial neurons, which loosely model the neurons in the brain. These are connected by edges, which model the synapses
 https://en.wikipedia.org/wiki/Neural_network_(machine_learning)
 
+Aliases:
+###### NN
+See: [[#Neural Networks (ML)]]
+###### ANN
+See: [[#Neural Networks (ML)]]
+
+
 ### Generative AI
 "...Meta launches MusicGen, a Generative AI"
 ##### What is generative AI? Everything you need to know

@@ -6,7 +6,34 @@ up:
 
 up: [[AI-MLOps]]
 
--------------------------------
+------------------------------
+
+#### Ollama Cmds
+ollama run llama3.1
+ollama pull llama3.1
+
+docker exec -it ollama ollama pull "llama3.1"
+docker exec -it ollama ollama ps
+docker exec -it ollama ollama list
+#### Ollama install
+##### ... // system
+wget https://ollama.ai/install.sh
+ollama install debian 12   // Ollama : Install
+https://www.server-world.info/en/note?os=Debian_12&p=ollama&f=1
+
+##### docker
+example: docker run -d -v ollama:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
+
+docker run -d -v /home/0shared/ollama_dot_d:/root/.ollama -p 11434:11434 --name ollama ollama/ollama
+
+**Run ollama cmd in docker**
+
+```bash
+docker exec -it ollama ollama --help
+docker exec -it ollama ollama run "llama3"  # Now you can run a model
+docker exec -it ollama ollama ollama ps
+```
+
 #### Model server (LLM Model server)
 LLM model server
 (LLM server?)

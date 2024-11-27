@@ -12,20 +12,27 @@ https://www.reddit.com/r/OpenAI/comments/16k7ewr/any_good_local_interfaces_for_o
 
 #### Better ChatGPT
 https://github.com/ztjhz/BetterChatGPT
+(китайский)
 
 
 
+### misc other  Local chatbot for openAI API
+##### openai-cli  (very basic)
+https://github.com/peterdemin/openai-cli
+простая базовая утилита
+CLI invokes https://api.openai.com/v1/completions by default. To override the endpoint URL, set OPENAI_API_URL environment variable.
 
-#### misc other  Local chatbot for openAI API
-
-SingleTom
-one page html/js
-https://github.com/Slamsneider/SingleTom
 
 heygpt
 A simple command-line interface for ChatGPT API.
 https://github.com/fuyufjh/heygpt
 Install latest release version to $HOME/.cargo/bin/ via cargo: `cargo install heygpt`
+
+##### web
+SingleTom
+one page html/js
+https://github.com/Slamsneider/SingleTom
+
 
 chatbot-openAI
 Chatbot using OpenAI API and Flask

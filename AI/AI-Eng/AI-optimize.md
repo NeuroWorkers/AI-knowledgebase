@@ -8,7 +8,9 @@ up:  [[AI-Eng]]
 ![[AI-optimize#^m]]
 # AI optimization
 
-
+#### Quantization
+Квантизация это методика оптимизации [[AI-basics#NN|NN]]  See:  [[Quantization]]
+[[#Efficient LLM Training Memory & Compute Optimization (article-l)]]
 
 #### Sparse Models (optimization)
 [[Sparse|Sparse Models]]  

@@ -21,16 +21,17 @@ Get up and running quickly with our [Quick Start Guide](https://docs.openwebui.
 
 
 
-#### Install
+#### Install docker
 https://docs.openwebui.com/getting-started/
 
 If Ollama is on your computer, use this command:
+```sh
 docker run -d -p 3000:8080 --add-host=host.docker.internal:host-gateway -v open-webui:/app/backend/data --name open-webui --restart always ghcr.io/open-webui/open-webui:main
-
+```
 только chatgpt
+...
 
 
-#### docker install
 docker pull ghcr.io/open-webui/open-webui:main
 
 https://hub.docker.com/r/backplane/open-webui

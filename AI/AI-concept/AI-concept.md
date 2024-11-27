@@ -55,10 +55,7 @@ How: Prompting ; Function calling ; Tool calling; JSON mode
 [[Structured-output|Structured output]]
 
 ### Quantization
-... weights and/or activations. Convert the high precision numbers, typically used in neural networks, to lower precision formats. For example, 32-bit floating point could be converted to 16-bit.
-
-https://adaptalent.com/ai-deep-dive-into-quantization/
-AI: Building a LLM but want to keep computational costs down? Deep Dive into Quantization
+See: [[Quantization]]  ([[Quantization#Quantization is method of optimization|Quantization is method of optimization...]])
 
 ### Model output size
 See: [[AI-flow#Model output size (flow)]]

@@ -13,6 +13,9 @@ Audio Classification is a machine learning task that involves identifying and ta
 
 ~~Sound Classification Models~~
 
+##### Top Free and Commercial Speaker Diarization APIs and SDKs
+https://picovoice.ai/blog/top-speaker-diarization-apis-and-sdks/   December 18, 2023 
+
 What is the best speaker diarization model?
 The most popular Free and Open-source speaker diarization libraries are Pyannote, NVIDIA NeMO, Kaldi, SpeechBrain, and UIS-RNN by Google. Each comes with pros and cons, requiring thorough research to find the best one that addresses developers' needs.Dec 18, 2023
 
